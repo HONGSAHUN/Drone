@@ -1,0 +1,20 @@
+{
+  "MATLAB": "R2024b Update 5",
+  "total_mass_kg": 1.3,
+  "mass_source": "user-reported flight-ready weight",
+  "physics_and_control_tests": "passed",
+  "trajectory_RMS_m": 0.020843047671538738,
+  "reinforcement_learning_toolbox_installed": false,
+  "RL_adapter_tested": false,
+  "agent_trained": false,
+  "unidentified_mass_kg": 0.55,
+  "uncalibrated": [
+    "mass distribution",
+    "center of mass",
+    "inertia",
+    "propulsion",
+    "drag",
+    "motor dynamics"
+  ],
+  "model_type": "MATLAB rigid body + procedural visual geometry; no Simscape model"
+}

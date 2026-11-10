@@ -1,0 +1,6 @@
+# MATLAB / macOS temporary files
+*.asv
+*.m~
+.DS_Store
+slprj/
+*.slxc
